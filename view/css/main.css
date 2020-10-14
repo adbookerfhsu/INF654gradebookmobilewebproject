@@ -1,3 +1,10 @@
+@media screen and (min-width: 800px) {
+  html {
+    width: 50%;
+    margin: auto;
+  }
+}
+
 body {
   background: #1f5b5d;
   color: #1f5b5d;
@@ -240,11 +247,6 @@ a {
   font-weight: lighter;
 }
 
-/*@media and (min-width: 600px) {
-    div.body {
-        max-width: 600px;
-    }
-}*/
 footer {
   position: fixed;
   left: 0;
